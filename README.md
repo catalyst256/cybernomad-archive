@@ -2,7 +2,6 @@
 All my old blog posts migrated from wordpress  
 
 ### OSINT
-- [Beginners Guide To Osint Chapter 1](beginners-guide-to-osint-chapter-1.md)
 - [Osint Certificate Transparency Lists](osint-certificate-transparency-lists.md)
 - [Osint Email Verification Api](osint-email-verification-api.md)
 - [Osint Etag Youre It](osint-etag-youre-it.md)
